@@ -1,9 +1,1 @@
-# HKS3-Koha-Tools
-
-## container setup
-
-podman-compose build
-
-podman-compose up
-
-podman-compose exec app bash
+moved to https://gitlab.koha-support.eu/hks3/HKS3-Koha-Tools
